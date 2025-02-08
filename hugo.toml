@@ -1,5 +1,22 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://wiolagaszka.netlify.app/'
 languageCode = 'en-us'
 title = 'Wiola Gaszka'
 
 theme = "gallery"
+
+[params]
+  defaultTheme = "dark"
+
+
+[params.socialIcons]
+ facebook = "https://www.facebook.com/wiola.gaszka"
+ twitter = "https://twitter.com/wiolagaszka"
+ email = "mailto:info@wiolagaszka.art"
+
+[params.footer]
+  copyright = "© Wioletta Gaszka"
+  links = [
+    { text = "Impressum", url = "/impressum/" },
+    { text = "Datenschutz", url = "/datenschutz/" },
+    { text = "Kontakt", url = "/kontakt/" }
+  ]
