@@ -8,6 +8,7 @@ theme = "gallery"
   defaultTheme = "dark"
 
 
+
 [params.socialIcons]
  facebook = "https://www.facebook.com/wiola.gaszka"
  twitter = "https://twitter.com/wiolagaszka"
@@ -20,3 +21,4 @@ theme = "gallery"
     { text = "Datenschutz", url = "/datenschutz/" },
     { text = "Kontakt", url = "/kontakt/" }
   ]
+
