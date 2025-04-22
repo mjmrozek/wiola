@@ -7,19 +7,19 @@ menu:
     weight: 1
 ---
 
-Responsible for this website:  
-Matthäus J. Mrozek
-c/o Grosch Postflex #2362
-Emsdettener Str. 10
-48268 Greven
-Germany
+__Responsible for this website:__  
+Matthäus J. Mrozek  
+c/o Grosch Postflex #2362  
+Emsdettener Str. 10  
+48268 Greven  
+Germany  
 
-Business:  
-Mrozek, IT-Solutions
+__Business:__  
+Mrozek, IT-Solutions  
 VAT ID: DE342900786
 
-Contact:  
-E-mail: info@wiolagaszka.art
+__Contact:__  
+E-mail: info@wiolagaszka.art  
 Phone: +49 177 456 7738  
 (Note: No phone hotline. The phone number is provided due to mandatory disclosure.)
 
